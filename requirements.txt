@@ -117,3 +117,4 @@ wsproto==1.2.0
 xhtml2pdf==0.2.15
 zope.event==5.0
 zope.interface==6.3
+-c constraints.txt
