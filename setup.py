@@ -6,6 +6,8 @@ install_requires = [
     'flask_sqlalchemy',
     'flask_login',
     'flasgger',
+    'gunicorn'
+    'psycopg2-binary'
     # Add other common dependencies here
 ]
 
